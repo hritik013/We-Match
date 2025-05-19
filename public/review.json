@@ -1,0 +1,128 @@
+[
+  {
+    "review_id": "review001",
+    "username": "Sarah Johnson",
+    "user_image": "https://i.ibb.co/r7Kn4t3/user1.jpg",
+    "review_rating": 4.5,
+    "review_text": "I was extremely pleased with the service. Everything went smoothly, and the decor was stunning!"
+  },
+  {
+    "review_id": "review002",
+    "username": "Michael Smith",
+    "user_image": "https://i.ibb.co/bKfTx4K/user2.jpg",
+    "review_rating": 5.0,
+    "review_text": "Absolutely fantastic! The wedding planner exceeded our expectations in every way. Highly recommended."
+  },
+  {
+    "review_id": "review003",
+    "username": "Emily Davis",
+    "user_image": "https://i.ibb.co/8x8ggKR/user3.jpg",
+    "review_rating": 4.0,
+    "review_text": "Our special day was made even more special with their expertise. Great job!"
+  },
+  {
+    "review_id": "review004",
+    "username": "Olivia Brown",
+    "user_image": "https://i.ibb.co/tJgVzMg/user4.jpg",
+    "review_rating": 4.5,
+    "review_text": "The attention to detail was remarkable. They truly brought our vision to life."
+  },
+  {
+    "review_id": "review005",
+    "username": "Matthew Wilson",
+    "user_image": "https://i.ibb.co/ZKDtGwD/user5.jpg",
+    "review_rating": 5.0,
+    "review_text": "The wedding planning team was exceptional. Our guests were in awe of the beautiful setup."
+  },
+  {
+    "review_id": "review006",
+    "username": "Hannah Jones",
+    "user_image": "https://i.ibb.co/Hg7GQd3/user6.jpg",
+    "review_rating": 4.0,
+    "review_text": "A big thanks to the Wedding Planner team for making our day memorable. You guys are the best!"
+  },
+  {
+    "review_id": "review007",
+    "username": "David Miller",
+    "user_image": "https://i.ibb.co/GVBXGDt/user7.jpg",
+    "review_rating": 4.2,
+    "review_text": "The Wedding Wizard team did a great job managing our wedding. We were thrilled with the results!"
+  },
+  {
+    "review_id": "review008",
+    "username": "SophiaWilson",
+    "user_image": "https://i.ibb.co/stbDRrz/user8.jpg",
+    "review_rating": 4.8,
+    "review_text": "Our wedding was a dream come true, thanks to The Wedding Wizard. Everything was flawless!"
+  },
+  {
+    "review_id": "review009",
+    "username": "Ethan Clark",
+    "user_image": "https://i.ibb.co/dBjkpCZ/user9.jpg",
+    "review_rating": 4.0,
+    "review_text": "The attention to detail was impressive. We couldn't have asked for a better team."
+  },
+  {
+    "review_id": "review010",
+    "username": "Ava Davis",
+    "user_image": "https://i.ibb.co/2cyvCK8/user10.jpg",
+    "review_rating": 4.6,
+    "review_text": "We received so many compliments on our wedding. It was a day to remember!"
+  },
+  {
+    "review_id": "review011",
+    "username": "William Harris",
+    "user_image": "https://i.ibb.co/yfRrkwy/user11.jpg",
+    "review_rating": 4.9,
+    "review_text": "The Wedding Wizard team's creativity and professionalism truly impressed us."
+  },
+  {
+    "review_id": "review012",
+    "username": "Mia White",
+    "user_image": "https://i.ibb.co/C8ww0fn/user12.jpg",
+    "review_rating": 4.4,
+    "review_text": "Thank you for making our wedding day so special. We couldn't be happier!"
+  },
+  {
+    "review_id": "review013",
+    "username": "Daniel Young",
+    "user_image": "https://i.ibb.co/B3Q3WHq/user13.jpg",
+    "review_rating": 4.7,
+    "review_text": "Our wedding was a seamless, stress-free experience. Highly recommended!"
+  },
+  {
+    "review_id": "review014",
+    "username": "Olivia Thomas",
+    "user_image": "https://i.ibb.co/Dzm4Xgx/user14.jpg",
+    "review_rating": 4.5,
+    "review_text": "The Wedding Wizard team exceeded our expectations. Our day was perfect!"
+  },
+  {
+    "review_id": "review015",
+    "username": "James Johnson",
+    "user_image": "https://i.ibb.co/9y75RYW/user15.jpg",
+    "review_rating": 4.3,
+    "review_text": "We couldn't have asked for a better wedding planner. Our guests were amazed!"
+  },
+  {
+    "review_id": "review016",
+    "username": "Isabella Taylor",
+    "user_image": "https://i.ibb.co/H7YFZDc/user16.jpg",
+    "review_rating": 4.1,
+    "review_text": "The Wedding Wizard truly brought our vision to life. It was a dream come true!"
+  },
+  {
+    "review_id": "review017",
+    "username": "Alexander Brown",
+    "user_image": "https://i.ibb.co/T191sh4/user17.jpg",
+    "review_rating": 4.8,
+    "review_text": "Our wedding day was perfect, thanks to The Wedding Wizard's meticulous planning."
+  },
+  {
+    "review_id": "review018",
+    "username": "CharlotteLee",
+    "user_image": "https://i.ibb.co/BtgN6nh/user18.jpg",
+    "review_rating": 4.6,
+    "review_text": "We were impressed by the professionalism and dedication of The Wedding Wizard team."
+  }
+]
